@@ -2,20 +2,27 @@ body{
 	background-color:black;
 	color:white;
 }
-/*class attribute*/
-.ab1{
-	color:skyblue;	
-}
 
-#abo1{
+/*id attribute tag*/
+.about{
+	text-align:center;
 	color:powderblue;
 	margin:16px;
 }
-
-#hob1{
-	margin-top:10px;
-	margin-bottom:10px;
-} 
-.hob1{
-	margin-top:10px;
+.info{
+	color: powderblue;
+}
+/*id attribute tag*/
+.hobies{
+	color:powderblue;
+	text-align: center;
+}
+.contact{
+	margin-left: 580px;
+	margin-bottom: 50px;
+}
+.reach{
+	display:block;
+	margin-top:50px;
+	margin-left: 49%;
 }
