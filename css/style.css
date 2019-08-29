@@ -1,21 +1,25 @@
-body{
-	background-color:black;
-	color:white;
+body {
+	background-color: black;
+	color: white;
 }
+
 /*class attribute*/
-.ab1{
-	color:skyblue;	
+.ab1 {
+	color: skyblue;
 }
 
-#abo1{
-	color:powderblue;
-	margin:16px;
+#abo1 {
+	color: powderblue;
+	margin: 16px;
 }
 
-#hob1{
-	margin-top:10px;
-	margin-bottom:10px;
-} 
-.hob1{
-	margin-top:10px;
+#hob1 {
+	color: powderblue;
+	margin: 16px;
+	text-align: center;
+	
+}
+
+.hob1 {
+	margin-top: 10px;
 }
